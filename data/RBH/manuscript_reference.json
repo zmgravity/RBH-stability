@@ -1,0 +1,15 @@
+{
+  "title": "A Geometric No-Go Theorem for Regular Black Holes in Scalar-Tensor Theories",
+  "authors": [
+    "Shulang Peng",
+    "Jun Tao",
+    "Mian Zhu",
+    "Yi-Fu Cai"
+  ],
+  "package_date": "2026-11-10",
+  "note": "SHA-256 digests identify the supplied Letter and Supplemental Material PDFs. MANUSCRIPT_MAP.md uses the equation numbers printed in these files. The quantitative plot reproduces Letter Figure 2.",
+  "files": {
+    "RBH.pdf": "7773e04516cf62ac5237f608c687ab2b0b5691780e8f3f074a420c67ea6f4b59",
+    "supp.pdf": "8dd043acc10f23ad33cd0ad42913170442db277b3ee9d661048cc731b4cb4583"
+  }
+}

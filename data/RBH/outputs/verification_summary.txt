@@ -1,0 +1,329 @@
+Geometric obstruction - Mathematica reproducibility package
+Kernel: 14.3.0 for Microsoft Windows (64-bit) (July 8, 2025)
+All passed: True
+Checks: 324
+
+geometry/Ricci/kappa=1 : PASS
+geometry/Hessian/kappa=1 : PASS
+geometry/operators/kappa=1 : PASS
+geometry/Ricci/kappa=0 : PASS
+geometry/Hessian/kappa=0 : PASS
+geometry/operators/kappa=0 : PASS
+geometry/Ricci/kappa=-1 : PASS
+geometry/Hessian/kappa=-1 : PASS
+geometry/operators/kappa=-1 : PASS
+measure/sign=1 : PASS
+variation/volume/sign=1 : PASS
+variation/X/sign=1 : PASS
+variation/arbitrary-phi-X-coupling/sign=1 : PASS
+variation/F0/sign=1 : PASS
+Euler/F0/sign=1 : PASS
+variation/Q/sign=1 : PASS
+Euler/Q/sign=1 : PASS
+variation/F2/sign=1 : PASS
+Euler/F2/sign=1 : PASS
+variation/A1/sign=1 : PASS
+Euler/A1/sign=1 : PASS
+variation/A2/sign=1 : PASS
+Euler/A2/sign=1 : PASS
+variation/A3/sign=1 : PASS
+Euler/A3/sign=1 : PASS
+variation/A4/sign=1 : PASS
+Euler/A4/sign=1 : PASS
+variation/A5/sign=1 : PASS
+Euler/A5/sign=1 : PASS
+geometric-current/sign=1 : PASS
+full-off-shell-identity/sign=1 : PASS
+measure/sign=-1 : PASS
+variation/volume/sign=-1 : PASS
+variation/X/sign=-1 : PASS
+variation/arbitrary-phi-X-coupling/sign=-1 : PASS
+variation/F0/sign=-1 : PASS
+Euler/F0/sign=-1 : PASS
+variation/Q/sign=-1 : PASS
+Euler/Q/sign=-1 : PASS
+variation/F2/sign=-1 : PASS
+Euler/F2/sign=-1 : PASS
+variation/A1/sign=-1 : PASS
+Euler/A1/sign=-1 : PASS
+variation/A2/sign=-1 : PASS
+Euler/A2/sign=-1 : PASS
+variation/A3/sign=-1 : PASS
+Euler/A3/sign=-1 : PASS
+variation/A4/sign=-1 : PASS
+Euler/A4/sign=-1 : PASS
+variation/A5/sign=-1 : PASS
+Euler/A5/sign=-1 : PASS
+geometric-current/sign=-1 : PASS
+full-off-shell-identity/sign=-1 : PASS
+tensor/Einstein-Maxwell-modulo-boundary : PASS
+tensor/timelike/trace : PASS
+tensor/timelike/gradient-contraction : PASS
+tensor/timelike/compact-Hessian-1 : PASS
+tensor/timelike/compact-Hessian-2 : PASS
+tensor/timelike/compact-Hessian-3 : PASS
+tensor/timelike/parent-action : PASS
+tensor/timelike/gauge-null : PASS
+tensor/timelike/characteristic-adjugate : PASS
+tensor/spacelike/trace : PASS
+tensor/spacelike/gradient-contraction : PASS
+tensor/spacelike/compact-Hessian-1 : PASS
+tensor/spacelike/compact-Hessian-2 : PASS
+tensor/spacelike/compact-Hessian-3 : PASS
+tensor/spacelike/parent-action : PASS
+tensor/spacelike/gauge-null : PASS
+tensor/spacelike/characteristic-adjugate : PASS
+foliation/volume-independent-of-shape : PASS
+foliation/K : PASS
+foliation/S : PASS
+foliation/T : PASS
+foliation/curvature-shape-variation : PASS
+foliation/log-q-proper-time : PASS
+foliation/shape-momentum : PASS
+foliation/shape-source : PASS
+foliation/zero-shear-equation : PASS
+foliation/q-acceleration-at-turn : PASS
+foliation/undivided-turning-identity : PASS
+foliation/zero-kinetic-forces-zero-gradient : PASS
+foliation/flat-turn-forces-zero-gradient : PASS
+foliation/Lorentzian-cone-excludes-maximum : PASS
+foliation/odd-linear-spatial-curvature : PASS
+foliation/odd-linear-volume : PASS
+foliation/spatial-curvature-boundary-u : PASS
+foliation/spatial-curvature-boundary-v : PASS
+foliation/odd-linear-K : PASS
+foliation/odd-quadratic-S : PASS
+foliation/odd-quadratic-T : PASS
+foliation/general-smooth-L-odd-action : PASS
+foliation/Fourier-longitudinal-transverse : PASS
+foliation/shift-equation-real : PASS
+foliation/shift-equation-imaginary : PASS
+foliation/physical-odd-action : PASS
+foliation/physical-characteristic : PASS
+foliation/KT-zero-kinetic-degeneracy : PASS
+foliation/FT-zero-spatial-degeneracy : PASS
+Horndeski/action-Ricci-from-metric/sign=1 : PASS
+Horndeski/action-off-shell/G2/sign=1 : PASS
+Horndeski/action-off-shell/G3/sign=1 : PASS
+Horndeski/action-off-shell/G4/sign=1 : PASS
+Horndeski/action-off-shell/G5/sign=1 : PASS
+Horndeski/action-Ricci-from-metric/sign=-1 : PASS
+Horndeski/action-off-shell/G2/sign=-1 : PASS
+Horndeski/action-off-shell/G3/sign=-1 : PASS
+Horndeski/action-off-shell/G4/sign=-1 : PASS
+Horndeski/action-off-shell/G5/sign=-1 : PASS
+Horndeski/full-off-shell-background-identity : PASS
+Horndeski/G-minus-H-factorization : PASS
+Horndeski/turning-G-equals-H : PASS
+Horndeski/smooth-scalar-stall-coefficients : PASS
+Horndeski/stationary-background-equation : PASS
+Horndeski/G2-G3-shape-cancellation : PASS
+Horndeski/general-radial-F : PASS
+Horndeski/general-radial-H : PASS
+Horndeski/general-radial-G : PASS
+Horndeski/general-radial-turn : PASS
+Horndeski/no-Jprime-pole : PASS
+Horndeski/U-stationary-logarithmic-condition : PASS
+Horndeski/exterior-radial-and-angular-speeds : PASS
+Horndeski/interior-longitudinal-and-angular-speeds : PASS
+Horndeski/interior-isotropic-turning-symbol : PASS
+Horndeski/proper-time-turning-identity : PASS
+transport/shape-invariance : PASS
+transport/clock-second-derivative : PASS
+transport/stationary-acceleration : PASS
+transport/positive-clock-preserves-acceleration-sign : PASS
+transport/principal-quadratic-form : PASS
+transport/principal-determinant : PASS
+transport/principal-inverse-congruence : PASS
+map/orthogonality/normal=1 : PASS
+map/inverse-metric/normal=1 : PASS
+map/determinant/normal=1 : PASS
+map/X-invariant/normal=1 : PASS
+map/projected-gradient/normal=1 : PASS
+map/Z-invariant/normal=1 : PASS
+map/functional-inverse/normal=1 : PASS
+map/composition-group/normal=1 : PASS
+map/orthogonality/normal=2 : PASS
+map/inverse-metric/normal=2 : PASS
+map/determinant/normal=2 : PASS
+map/X-invariant/normal=2 : PASS
+map/projected-gradient/normal=2 : PASS
+map/Z-invariant/normal=2 : PASS
+map/functional-inverse/normal=2 : PASS
+map/composition-group/normal=2 : PASS
+odd-map/radial-projection/normal=1 : PASS
+odd-map/delta-X/normal=1 : PASS
+odd-map/delta-projected-gradient/normal=1 : PASS
+odd-map/identity/normal=1 : PASS
+odd-map/radial-projection/normal=2 : PASS
+odd-map/delta-X/normal=2 : PASS
+odd-map/delta-projected-gradient/normal=2 : PASS
+odd-map/identity/normal=2 : PASS
+Weyl/kinetic-inverse-Jacobian : PASS
+Weyl/linear-Omega-admissible-domain : PASS
+Weyl/EH-pullback-up-to-divergence : PASS
+extension/mimetic-shape-invariance : PASS
+extension/curvature-gradient-no-odd-quadratic : PASS
+mixing/pure-disformal-kinetic-Jacobian : PASS
+mixing/model-specific-Jacobian-numerator : PASS
+mixing/wormhole-Horndeski-limit : PASS
+exterior/extremal-leading-identity : PASS
+exterior/extremal-speed : PASS
+exterior/extremal-negative-speed : PASS
+exterior/zero-X-smooth-couplings : PASS
+Hayward/KT-from-couplings : PASS
+Hayward/outside-GLPV : PASS
+Hayward/background-identity : PASS
+Hayward/normalized-KT : PASS
+Hayward/normalized-F2 : PASS
+Hayward/speed-ratio : PASS
+Hayward/horizon-mass-derivative : PASS
+Hayward/extremal-mass : PASS
+Hayward/extremal-horizon : PASS
+Hayward/extremal-stationarity : PASS
+Hayward/extremal-curvature : PASS
+Hayward/extremal-coefficient-speed : PASS
+Hayward/F2-zero : PASS
+Hayward/mass-window-endpoint : PASS
+Hayward/normalized-horizon-curve : PASS
+Hayward/outer-branch-monotone : PASS
+Hayward/exterior-sign-interval : PASS
+examples/trapped-real-scalar-exclusion : PASS
+arctangent/background-identity : PASS
+arctangent/logarithmic-profile-derivative : PASS
+arctangent/horizon-extremality-condition : PASS
+arctangent/trigonometric-extremality : PASS
+arctangent/extremal-D : PASS
+arctangent/extremal-N : PASS
+arctangent/metric-second-derivative-profile : PASS
+arctangent/extremal-curvature : PASS
+arctangent/extremal-speed : PASS
+arctangent/geometric-coefficient-agreement : PASS
+arctangent/sign-proof/g-at-zero : PASS
+arctangent/sign-proof/g-derivative : PASS
+arctangent/sign-proof/g-derivative-positive : PASS
+arctangent/sign-proof/sinc-derivative : PASS
+arctangent/sign-proof/root-endpoint-signs : PASS
+arctangent/sign-proof/negative-speed : PASS
+numerics/Hayward/{1, 1, 1}/wp=40/original-horizon-equations : PASS
+numerics/Hayward/{1, 1, 1}/wp=40/radius : PASS
+numerics/Hayward/{1, 1, 1}/wp=40/mass : PASS
+numerics/Hayward/{1, 1, 1}/wp=40/coefficient-versus-metric : PASS
+numerics/Hayward/{1, 1, 1}/wp=40/extremal-minus-one : PASS
+numerics/Hayward/{2, 3, 5}/wp=40/original-horizon-equations : PASS
+numerics/Hayward/{2, 3, 5}/wp=40/radius : PASS
+numerics/Hayward/{2, 3, 5}/wp=40/mass : PASS
+numerics/Hayward/{2, 3, 5}/wp=40/coefficient-versus-metric : PASS
+numerics/Hayward/{2, 3, 5}/wp=40/extremal-minus-one : PASS
+numerics/Hayward/{7/10, 4, 1/5}/wp=40/original-horizon-equations : PASS
+numerics/Hayward/{7/10, 4, 1/5}/wp=40/radius : PASS
+numerics/Hayward/{7/10, 4, 1/5}/wp=40/mass : PASS
+numerics/Hayward/{7/10, 4, 1/5}/wp=40/coefficient-versus-metric : PASS
+numerics/Hayward/{7/10, 4, 1/5}/wp=40/extremal-minus-one : PASS
+numerics/arctangent/p=3/wp=40/original-horizon-equations : PASS
+numerics/arctangent/p=3/wp=40/independent-profile-root : PASS
+numerics/arctangent/p=3/wp=40/independent-radius : PASS
+numerics/arctangent/p=3/wp=40/coefficient-versus-metric : PASS
+numerics/arctangent/p=3/wp=40/negative-speed-and-ordinary-extremum : PASS
+numerics/arctangent/p=4/wp=40/original-horizon-equations : PASS
+numerics/arctangent/p=4/wp=40/independent-profile-root : PASS
+numerics/arctangent/p=4/wp=40/independent-radius : PASS
+numerics/arctangent/p=4/wp=40/coefficient-versus-metric : PASS
+numerics/arctangent/p=4/wp=40/negative-speed-and-ordinary-extremum : PASS
+numerics/Hayward/{1, 1, 1}/wp=70/original-horizon-equations : PASS
+numerics/Hayward/{1, 1, 1}/wp=70/radius : PASS
+numerics/Hayward/{1, 1, 1}/wp=70/mass : PASS
+numerics/Hayward/{1, 1, 1}/wp=70/coefficient-versus-metric : PASS
+numerics/Hayward/{1, 1, 1}/wp=70/extremal-minus-one : PASS
+numerics/Hayward/{2, 3, 5}/wp=70/original-horizon-equations : PASS
+numerics/Hayward/{2, 3, 5}/wp=70/radius : PASS
+numerics/Hayward/{2, 3, 5}/wp=70/mass : PASS
+numerics/Hayward/{2, 3, 5}/wp=70/coefficient-versus-metric : PASS
+numerics/Hayward/{2, 3, 5}/wp=70/extremal-minus-one : PASS
+numerics/Hayward/{7/10, 4, 1/5}/wp=70/original-horizon-equations : PASS
+numerics/Hayward/{7/10, 4, 1/5}/wp=70/radius : PASS
+numerics/Hayward/{7/10, 4, 1/5}/wp=70/mass : PASS
+numerics/Hayward/{7/10, 4, 1/5}/wp=70/coefficient-versus-metric : PASS
+numerics/Hayward/{7/10, 4, 1/5}/wp=70/extremal-minus-one : PASS
+numerics/arctangent/p=3/wp=70/original-horizon-equations : PASS
+numerics/arctangent/p=3/wp=70/independent-profile-root : PASS
+numerics/arctangent/p=3/wp=70/independent-radius : PASS
+numerics/arctangent/p=3/wp=70/coefficient-versus-metric : PASS
+numerics/arctangent/p=3/wp=70/negative-speed-and-ordinary-extremum : PASS
+numerics/arctangent/p=4/wp=70/original-horizon-equations : PASS
+numerics/arctangent/p=4/wp=70/independent-profile-root : PASS
+numerics/arctangent/p=4/wp=70/independent-radius : PASS
+numerics/arctangent/p=4/wp=70/coefficient-versus-metric : PASS
+numerics/arctangent/p=4/wp=70/negative-speed-and-ordinary-extremum : PASS
+numerics/precision-convergence/Hayward/{1, 1, 1} : PASS
+numerics/precision-convergence/Hayward/{2, 3, 5} : PASS
+numerics/precision-convergence/Hayward/{7/10, 4, 1/5} : PASS
+numerics/precision-convergence/arctangent/p=3 : PASS
+numerics/precision-convergence/arctangent/p=4 : PASS
+numerics/Hayward/scan/two-horizons/m=1001/1000 : PASS
+numerics/Hayward/scan/metric-residual/m=1001/1000 : PASS
+numerics/Hayward/scan/parametric-agreement/m=1001/1000 : PASS
+numerics/Hayward/scan/exclusion-equivalence/m=1001/1000 : PASS
+numerics/Hayward/scan/exterior-sign/m=1001/1000 : PASS
+numerics/Hayward/scan/two-horizons/m=21/20 : PASS
+numerics/Hayward/scan/metric-residual/m=21/20 : PASS
+numerics/Hayward/scan/parametric-agreement/m=21/20 : PASS
+numerics/Hayward/scan/exclusion-equivalence/m=21/20 : PASS
+numerics/Hayward/scan/exterior-sign/m=21/20 : PASS
+numerics/Hayward/scan/two-horizons/m=27/25 : PASS
+numerics/Hayward/scan/metric-residual/m=27/25 : PASS
+numerics/Hayward/scan/parametric-agreement/m=27/25 : PASS
+numerics/Hayward/scan/exclusion-equivalence/m=27/25 : PASS
+numerics/Hayward/scan/exterior-sign/m=27/25 : PASS
+numerics/Hayward/scan/two-horizons/m=109/100 : PASS
+numerics/Hayward/scan/metric-residual/m=109/100 : PASS
+numerics/Hayward/scan/parametric-agreement/m=109/100 : PASS
+numerics/Hayward/scan/exclusion-equivalence/m=109/100 : PASS
+numerics/Hayward/scan/exterior-sign/m=109/100 : PASS
+numerics/Hayward/scan/two-horizons/m=23/20 : PASS
+numerics/Hayward/scan/metric-residual/m=23/20 : PASS
+numerics/Hayward/scan/parametric-agreement/m=23/20 : PASS
+numerics/Hayward/scan/exclusion-equivalence/m=23/20 : PASS
+numerics/Hayward/scan/exterior-sign/m=23/20 : PASS
+exports/fig2_horizon.csv : PASS
+exports/fig2_coefficient.csv : PASS
+exports/fig2_exclusion_band.csv : PASS
+exports/extremal_hayward.csv : PASS
+exports/extremal_arctangent.csv : PASS
+exports/hayward_mass_scan.csv : PASS
+exports/hayward_exterior.pdf : PASS
+exports/hayward_exterior.png : PASS
+exports/numerical_results.json : PASS
+kessence/Einstein-longitudinal-from-metric : PASS
+kessence/Einstein-angular-from-metric : PASS
+kessence/Einstein-angular-equality : PASS
+kessence/proper-time-gradient-index-sign : PASS
+kessence/mixed-temporal-stress : PASS
+kessence/isotropic-spatial-stress : PASS
+kessence/Einstein-difference-shape-current : PASS
+kessence/stationary-acceleration : PASS
+quadratic/smooth-scalar-stall-KT : PASS
+quadratic/smooth-nondegenerate-scalar-stall-speed : PASS
+UDHOST/example-unitary-degeneracy : PASS
+UDHOST/example-homogeneous-deformation : PASS
+UDHOST/example-tensor-coefficients : PASS
+UDHOST/example-noncovariant-degeneracy-for-nonzero-xi : PASS
+ordinary-map/inverse/normal=1 : PASS
+ordinary-map/kinetic/normal=1 : PASS
+ordinary-map/odd-algebraic/normal=1 : PASS
+ordinary-map/inverse/normal=2 : PASS
+ordinary-map/kinetic/normal=2 : PASS
+ordinary-map/odd-algebraic/normal=2 : PASS
+ordinary-map/general-kinetic-Jacobian : PASS
+transport/orthonormal-speed-rescaling : PASS
+transport/full-turning-identity : PASS
+exterior/finite-order-current-factorization : PASS
+exterior/finite-order-current-derivative : PASS
+exterior/finite-order-leading-identity : PASS
+exterior/finite-order-speed : PASS
+exterior/finite-order-speed-negative : PASS
+exterior/finite-order-Taylor/n=0 : PASS
+exterior/finite-order-Taylor/n=1 : PASS
+exterior/finite-order-Taylor/n=2 : PASS
+exterior/finite-order-Taylor/n=3 : PASS
+arctangent/KT-from-published-A1 : PASS

@@ -1,0 +1,78 @@
+MANUSCRIPT
+
+Shulang Peng, Jun Tao, Mian Zhu and Yi-Fu Cai,
+A Geometric No-Go Theorem for Regular Black Holes in Scalar-Tensor Theories.
+The supplied 10 November 2026 Letter (RBH.pdf) and supplement (supp.pdf)
+are identified by SHA-256 in manuscript_reference.json.
+MANUSCRIPT_MAP.md follows the printed equation numbers.
+
+PRIMARY THEORY AND BACKGROUND INPUTS
+
+K. Takahashi, H. Motohashi and M. Minamitsuji,
+Linear stability analysis of hairy black holes in quadratic degenerate
+higher-order scalar-tensor theories: Odd-parity perturbations (2019).
+https://arxiv.org/abs/1904.03554
+Radial-scalar odd coefficients; compared with the directly computed symbol.
+
+M. Minamitsuji, K. Takahashi and S. Tsujikawa,
+Linear stability of black holes with static scalar hair in full Horndeski
+theories: generic instabilities and surviving models (2022).
+https://arxiv.org/abs/2204.13837
+Full-Horndeski metric equations and conventional odd coefficients.
+
+P. Boonserm, A. De Felice, R. Nakarachinda, S. Tsujikawa and P. Wongjun,
+Perturbations and stability of black holes with static scalar hair in
+general GLPV theories (2026).
+https://arxiv.org/abs/2609.00664
+Eq. (80): background identity; Horndeski specialization used in the Letter.
+
+E. Babichev, C. Charmousis, A. Cisterna and M. Hassaine,
+Regular black holes via the Kerr-Schild construction in DHOST theories,
+JCAP 06 (2020) 049.
+https://arxiv.org/abs/2004.00597
+Version 2, Secs. 2.1.1 and 3; Eqs. (3.49), (3.58)-(3.60).
+Hayward profile and couplings; their G=F2 and H=-K_T.
+
+O. Baake, C. Charmousis, M. Hassaine and M. San Juan,
+Regular black holes and gravitational particle-like solutions in generic
+DHOST theories, JCAP 06 (2021) 021.
+https://arxiv.org/abs/2104.08221
+Arctangent profile and supporting class-Ia tensor coefficients.
+
+K. Takahashi, H. Motohashi and M. Minamitsuji,
+Invertible disformal transformations with higher derivatives (2022).
+https://arxiv.org/abs/2111.11634
+Generalized kinetic-gradient disformal family.
+
+K. Takahashi, M. Minamitsuji and H. Motohashi,
+Generalized disformal Horndeski theories: Cosmological perturbations and
+consistent matter coupling, PTEP 2023, 013E01.
+https://arxiv.org/abs/2209.02176
+Generalized-disformal theory context.
+
+K. Takahashi, Invertible disformal transformations with arbitrary
+higher-order derivatives, Phys. Rev. D 108, 084031 (2023).
+https://arxiv.org/abs/2307.08814
+Higher-order functional-inverse context.
+
+S. Mironov and V. Volkova,
+Stable non-singular cosmologies in beyond Horndeski theory and disformal
+transformations, Int. J. Mod. Phys. A 37, 2250088 (2022).
+https://arxiv.org/abs/2204.05889
+Eqs. (23)-(24), cosmological pure-disformal Jacobian and mixing identification in SM S2.
+
+S. Mironov, V. Rubakov and V. Volkova,
+In hot pursuit of a stable wormhole in beyond Horndeski theory,
+Phys. Rev. D 107, 104061 (2023). https://arxiv.org/abs/2212.05969
+Beyond-Horndeski mixing factor in the separate static wormhole example in SM S2.
+
+A. De Felice, S. Mukohyama and K. Takahashi,
+Nonlinear definition of the shadowy mode in higher-order scalar-tensor theories,
+JCAP 12 (2021) 020. https://arxiv.org/abs/2110.03194
+Version 2, Eqs. (4)-(6): the explicit U-DHOST example and degeneracy conditions.
+
+IMPLEMENTATION
+
+No third-party Mathematica libraries or software distributions are bundled.
+Published formulas are identified above; the package derives the local
+identities and their consequences within the domains in MANUSCRIPT_MAP.md.

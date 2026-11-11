@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Please cite this software together with the associated Letter."
+title: "A Geometric No-Go Theorem for Regular Black Holes in Scalar-Tensor Theories: Mathematica Reproducibility Package"
+type: software
+authors:
+  - family-names: Zhu
+    given-names: Mian
+version: 1.1.3
+date-released: 2026-11-10
+license: MIT
+keywords:
+  - scalar-tensor gravity
+  - DHOST
+  - regular black holes
+  - Mathematica
+  - reproducibility

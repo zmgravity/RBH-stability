@@ -1,0 +1,2 @@
+# The release manifest hashes exact file bytes. Preserve line endings on checkout.
+* -text

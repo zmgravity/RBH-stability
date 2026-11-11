@@ -1,0 +1,5 @@
+# Reports and scientific outputs are deliberately included in releases.
+*.bak
+*~
+.DS_Store
+Thumbs.db
